@@ -1,0 +1,16 @@
+<resources>
+
+    /*Primer Activity*/
+
+    <string name="app_name">Datos</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="Input">Ingrese Numero del 1 al 4</string>
+
+    /*Segunda Actividad */
+
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">Segundo Activity</string>
+    <string name="Resultdo">Resultado</string>
+
+</resources>
