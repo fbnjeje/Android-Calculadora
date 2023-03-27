@@ -32,7 +32,7 @@
         app:layout_constraintVertical_bias="0.122" />
 
     <EditText
-        android:id="@+id/Input2"
+        android:id="@+id/InputOperacion"
         android:layout_width="152dp"
         android:layout_height="59dp"
         android:ems="10"
